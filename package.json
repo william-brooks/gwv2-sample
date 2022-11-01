@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node src/init.ts"
+    "create-network": "ts-node src/init.ts"
   },
   "keywords": [],
   "author": "",
